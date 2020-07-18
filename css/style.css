@@ -566,6 +566,7 @@ li.selected .cd-project-title,
 }
 
 .cd-project-info {
+  font-size: large;
   display: none;
   padding: 4em 0;
   background-color: #ffffff;
@@ -575,6 +576,7 @@ li.selected .cd-project-title,
   display: block;
 }
 .cd-project-info p {
+  font-size: large;
   width: 90%;
   max-width: 800px;
   margin: 0 auto;
