@@ -391,6 +391,7 @@ Projects
 }
 
 .cd-project-title {
+  font-size: large;
   position: absolute;
   width: 100%;
   top: calc(50% - 20px);
